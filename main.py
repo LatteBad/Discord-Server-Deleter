@@ -1,5 +1,5 @@
 from os import system
-mytitle = "Deleter - Written by LatteBad#0406"
+mytitle = "Deleter - by latte#0406"
 system("title "+mytitle)
 import psutil
 import time
@@ -27,7 +27,7 @@ print(f"""{Fore.MAGENTA}
                                     ██████╔╝███████╗███████╗███████╗   ██║   ███████╗██║  ██║
                                     ╚═════╝ ╚══════╝╚══════╝╚══════╝   ╚═╝   ╚══════╝╚═╝  ╚═╝
 {Style.RESET_ALL}
-                                                {Fore.RED}Written by LatteBad#0406. Thanks to NotSaksh#6969 for the idea.{Style.RESET_ALL}
+                                                {Fore.RED}by latte#0406{Style.RESET_ALL}
                                                 
 *Use at your own risk. Actions executed are irreversible.
         """)
